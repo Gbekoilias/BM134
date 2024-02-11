@@ -1,4 +1,4 @@
-# BM134 Strategy & Leadership Assessment 
+# Strategy & Leadership Assessment 
 
 ## Overview
 
