@@ -1,4 +1,4 @@
-# Strategy & Leadership Assessment 
+<h1 align = 'center'> Strategy & Leadership Assessment </h1>
 
 ## Overview
 
