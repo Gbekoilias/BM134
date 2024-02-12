@@ -1,5 +1,5 @@
-Internal Analysis - Readme
-Overview
+<h1 align = 'center'> Internal Analysis - Readme </h1>
+<h2 align = 'center'> Overview </h2>
 This section provides a step-by-step algorithm for writing the Internal Analysis, aiming for a 1000-word count. The analysis focuses on a resource-based analysis of the focal organization, emphasizing critical evaluation, relevant concepts, theories, frameworks, tools, and persuasive argumentation.
 
 Algorithm
