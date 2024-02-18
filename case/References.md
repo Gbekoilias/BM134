@@ -1,36 +1,36 @@
-1. EWUSI-MENSAH, K., 2021. The external organizational environment and its impact on management information systems. Accounting, Organizations and Society, vol. 6, no. 4, pp. 301–316.
+EWUSI-MENSAH, K., 2021. The external organizational environment and its impact on management information systems. Accounting, Organizations and Society, vol. 6, no. 4, pp. 301–316.
 
-2. MILLER, C.C., OGILVIE, DT, and GLICK, W.H., 2016. Assessing the External Environment: An Enrichment of the Archival Tradition. Research Methodology in Strategy and Management, pp. 97–122.
+MILLER, C.C., OGILVIE, DT, and GLICK, W.H., 2016. Assessing the External Environment: An Enrichment of the Archival Tradition. Research Methodology in Strategy and Management, pp. 97–122.
 
-3. DIRSMITH, M.W. and COVALESKI, M.A., 2023. Strategy, external communication, and environmental context. Strategic Management Journal, vol. 4, no. 2, pp. 137–151.
+DIRSMITH, M.W. and COVALESKI, M.A., 2023. Strategy, external communication, and environmental context. Strategic Management Journal, vol. 4, no. 2, pp. 137–151.
 
-4. UITTO, J.I., 2016. The Environment‐poverty Nexus in Evaluation: Implications for the Sustainable Development Goals. Global Policy, vol. 7, no. 3, pp. 441–447.
+UITTO, J.I., 2016. The Environment‐poverty Nexus in Evaluation: Implications for the Sustainable Development Goals. Global Policy, vol. 7, no. 3, pp. 441–447.
 
-5. EGAMI, N. and HARTMAN, E., 2020. Elements of External Validity: Framework, Design, and Analysis. SSRN Electronic Journal.
+EGAMI, N. and HARTMAN, E., 2020. Elements of External Validity: Framework, Design, and Analysis. SSRN Electronic Journal.
 
-6. M. GALINDRO, B., BEY, N., I. OLSEN, S., E. FRIES, C., and R. SOARES, S., 2019. Use of data envelopment analysis to benchmark environmental product declarations—a suggested framework. The International Journal of Life Cycle Assessment, vol. 25, no. 12, pp. 2417–2431.
+M. GALINDRO, B., BEY, N., I. OLSEN, S., E. FRIES, C., and R. SOARES, S., 2019. Use of data envelopment analysis to benchmark environmental product declarations—a suggested framework. The International Journal of Life Cycle Assessment, vol. 25, no. 12, pp. 2417–2431.
 
-7. ZHANG, H., LIU, L., and LI, T., 2011. Designing IT systems according to environmental settings: A strategic analysis framework. The Journal of Strategic Information Systems, vol. 20, no. 1, pp. 80–95.
+ZHANG, H., LIU, L., and LI, T., 2011. Designing IT systems according to environmental settings: A strategic analysis framework. The Journal of Strategic Information Systems, vol. 20, no. 1, pp. 80–95.
 
-8. SCHUETZ, C.G., MAIR, E., and SCHREFL, M., 2018. PESTEL Modeler: Strategy Analysis Using MetaEdit+, iStar 2.0, and Semantic Technologies. 2018 IEEE 22nd International Enterprise Distributed Object Computing Workshop (EDOCW).
+SCHUETZ, C.G., MAIR, E., and SCHREFL, M., 2018. PESTEL Modeler: Strategy Analysis Using MetaEdit+, iStar 2.0, and Semantic Technologies. 2018 IEEE 22nd International Enterprise Distributed Object Computing Workshop (EDOCW).
 
-9. MOKHTAR, S., 2021. A framework for sustainable environmental analysis. IOP Conference Series: Earth and Environmental Science, vol. 685, no. 1, p. 012005.
+MOKHTAR, S., 2021. A framework for sustainable environmental analysis. IOP Conference Series: Earth and Environmental Science, vol. 685, no. 1, p. 012005.
 
-10. Jahan, S. A., & Sazu, M. H. (2023). Role of IoTs and analytics in efficient sustainable manufacturing of consumer electronics. International Journal of Computing Sciences Research, 7, 1337-1350.
+Jahan, S. A., & Sazu, M. H. (2023). Role of IoTs and analytics in efficient sustainable manufacturing of consumer electronics. International Journal of Computing Sciences Research, 7, 1337-1350.
 
-11. Microsoft Corporation (2024). Form 10-K.
+Microsoft Corporation (2024). Form 10-K.
 
-12. Microsoft Corporation (2023). Our Sustainability Journey.
+Microsoft Corporation (2023). Our Sustainability Journey.
     
-13. Modak, N. M., Sinha, S., & Ghosh, D. K. (2023). A review on remanufacturing, reuse, and recycling in supply chain – Exploring the evolution of information technology over two decades. International Journal of Information Management Data Insights, 3(1), 100160.
+Modak, N. M., Sinha, S., & Ghosh, D. K. (2023). A review on remanufacturing, reuse, and recycling in supply chain – Exploring the evolution of information technology over two decades. International Journal of Information Management Data Insights, 3(1), 100160.
 
-14. U.S. Department of Commerce – International Trade Administration (Year). Software and Information Technology Industry.
+U.S. Department of Commerce – International Trade Administration (Year). Software and Information Technology Industry.
 
-15. Bakri, N.A.M., Zulhairi, A., Yahmin, N., Hashim, K., Traval, R., Khair, U.N.J. and Chew, B.C., 2012, February. PESTLE Analysis on Cloud Computing. In Proceedings of 2012 International Conference on Technology Management and Technopreneurship: IC-TMT2012 (pp. 6-7).
+Bakri, N.A.M., Zulhairi, A., Yahmin, N., Hashim, K., Traval, R., Khair, U.N.J. and Chew, B.C., 2012, February. PESTLE Analysis on Cloud Computing. In Proceedings of 2012 International Conference on Technology Management and Technopreneurship: IC-TMT2012 (pp. 6-7).
 
-16.Nkang, C.N., 2023. PESTLE Analysis Report for BAE Systems: Integrating Cloud Technology in the Defence Sector.
+Nkang, C.N., 2023. PESTLE Analysis Report for BAE Systems: Integrating Cloud Technology in the Defence Sector.
 
-17. Microsoft Legal Issues. (2024). In-depth analysis of Microsoft's legal challenges and implications
+Microsoft Legal Issues. (2024). In-depth analysis of Microsoft's legal challenges and implications
 
 SEITOVA, D., 2022. The terms of internationally accepted computer-based terminology. Ренессанс в парадигме новаций образования и технологий в XXI веке, no. 1, pp. 53–54.
 
