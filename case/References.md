@@ -1,23 +1,3 @@
-EWUSI-MENSAH, K., 2021. The external organizational environment and its impact on management information systems. Accounting, Organizations and Society, vol. 6, no. 4, pp. 301–316.
-
-MILLER, C.C., OGILVIE, DT, and GLICK, W.H., 2016. Assessing the External Environment: An Enrichment of the Archival Tradition. Research Methodology in Strategy and Management, pp. 97–122.
-
-DIRSMITH, M.W. and COVALESKI, M.A., 2023. Strategy, external communication, and environmental context. Strategic Management Journal, vol. 4, no. 2, pp. 137–151.
-
-UITTO, J.I., 2016. The Environment‐poverty Nexus in Evaluation: Implications for the Sustainable Development Goals. Global Policy, vol. 7, no. 3, pp. 441–447.
-
-EGAMI, N. and HARTMAN, E., 2020. Elements of External Validity: Framework, Design, and Analysis. SSRN Electronic Journal.
-
-M. GALINDRO, B., BEY, N., I. OLSEN, S., E. FRIES, C., and R. SOARES, S., 2019. Use of data envelopment analysis to benchmark environmental product declarations—a suggested framework. The International Journal of Life Cycle Assessment, vol. 25, no. 12, pp. 2417–2431.
-
-ZHANG, H., LIU, L., and LI, T., 2011. Designing IT systems according to environmental settings: A strategic analysis framework. The Journal of Strategic Information Systems, vol. 20, no. 1, pp. 80–95.
-
-SCHUETZ, C.G., MAIR, E., and SCHREFL, M., 2018. PESTEL Modeler: Strategy Analysis Using MetaEdit+, iStar 2.0, and Semantic Technologies. 2018 IEEE 22nd International Enterprise Distributed Object Computing Workshop (EDOCW).
-
-MOKHTAR, S., 2021. A framework for sustainable environmental analysis. IOP Conference Series: Earth and Environmental Science, vol. 685, no. 1, p. 012005.
-
-Jahan, S. A., & Sazu, M. H. (2023). Role of IoTs and analytics in efficient sustainable manufacturing of consumer electronics. International Journal of Computing Sciences Research, 7, 1337-1350.
-
 Microsoft Corporation (2024). Form 10-K.
 
 Microsoft Corporation (2023). Our Sustainability Journey.
